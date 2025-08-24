@@ -1,4 +1,4 @@
-🚦 Traffic Management System Using IoT, Data Analytics & Machine Learning
+Traffic Management System Using IoT, Data Analytics & Machine Learning
 
 
 📌 Overview

@@ -70,6 +70,5 @@ Sujith G
 
 Keerthi S
 
-Gokul S
 
 ✨ This project was developed under the Naan Mudhalvan & IBM initiative at Knowledge Institute of Technology.
